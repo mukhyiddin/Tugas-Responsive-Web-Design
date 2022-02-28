@@ -9,5 +9,6 @@ Jawaban
     agar website selalu terliaht rapi walaupun dibuka di device berbeda
 2. em, ex, ch, rem, vw, vh, vmin, vmax, %
 3. breakpoint merupakan perubahan tampilan ketika website memasuki resolusi yang telah di tentukan untuk mengubah tampilan website.
-4. 
-5. 
+4. dapat menggunakan flex, flex mengatur layout 1 dimensi (rows atau column, hanya salah satu).
+5. dapat menggunakan grid, grid mengatur layout 2 dimensi (rows dan column, kedua-duanya).
+
